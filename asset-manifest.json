@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a3f731a.css",
+    "main.js": "/static/js/main.193da86e.js",
+    "static/js/787.e2b5cdab.chunk.js": "/static/js/787.e2b5cdab.chunk.js",
+    "static/media/Phones.png": "/static/media/Phones.a5c74a367c5c62040a6d.png",
+    "static/media/screenshotiphone.png": "/static/media/screenshotiphone.4daf45c79736d41e3199.png",
+    "static/media/features-1.png": "/static/media/features-1.a48f0ee2fe7d5bbc5a62.png",
+    "static/media/play-store.png": "/static/media/play-store.5d829b3366b9df93846f.png",
+    "static/media/logo.png": "/static/media/logo.38acc2f39f2814b33ac1.png",
+    "static/media/i-store.png": "/static/media/i-store.930856bf0114615f85af.png",
+    "static/media/hero-1-bottom-shape.png": "/static/media/hero-1-bottom-shape.8c14084eb35cd4588486.png",
+    "static/media/features-bg.png": "/static/media/features-bg.26f8e79aa0ad5c30699b.png",
+    "index.html": "/index.html",
+    "main.7a3f731a.css.map": "/static/css/main.7a3f731a.css.map",
+    "main.193da86e.js.map": "/static/js/main.193da86e.js.map",
+    "787.e2b5cdab.chunk.js.map": "/static/js/787.e2b5cdab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a3f731a.css",
+    "static/js/main.193da86e.js"
+  ]
+}
